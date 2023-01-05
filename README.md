@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian
 ================================================================================================================================
 
-Fullstack Web Developer
+Fullstack Web Developer | Inbound Marketing Expert
 -----------------------
 
 Hi, I'm a MERN web developer with a passion for building intuitive and engaging user experiences. I am currently looking to gain experience and grow my skills in the field, I am excited to contribute and learn from the developer community. In my free time, I enjoy tinkering with new technologies and working on personal projects. In terms of relevant skills, I have a strong foundation in HTML, CSS, and JavaScript and I am proficient in the MERN stack. I am also a quick learner and thrive in collaborative environments. I am excited to get started and would love the opportunity to work on projects that challenge and inspire me.
