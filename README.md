@@ -1,12 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian Undurraga
-==========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian
+================================================================================================================================
 
-Web Developer
--------------
+Fullstack Web Developer
+-----------------------
 
-Hi, I'm a MERN web developer with a passion for building intuitive and engaging user experiences. I am currently looking to gain experience and grow my skills in the field, and am excited to contribute to and learn from the developer community. In my free time, I enjoy tinkering with new technologies and working on personal projects. In terms of relevant skills, I have a strong foundation in HTML, CSS, and JavaScript, and am proficient in the MERN stack. I am also a quick learner and thrive in collaborative environments. I am excited to get started and would love the opportunity to work on projects that challenge and inspire me. Thank you for considering me for your team!
+Hi, I'm a MERN web developer with a passion for building intuitive and engaging user experiences. I am currently looking to gain experience and grow my skills in the field, I am excited to contribute and learn from the developer community. In my free time, I enjoy tinkering with new technologies and working on personal projects. In terms of relevant skills, I have a strong foundation in HTML, CSS, and JavaScript and I am proficient in the MERN stack. I am also a quick learner and thrive in collaborative environments. I am excited to get started and would love the opportunity to work on projects that challenge and inspire me.
 
 * 🌍  I'm based in Santiago, CL
+* ✉️  You can contact me at [cristian.undurraga.l@gmail.com](mailto:cristian.undurraga.l@gmail.com)
+* 🧠  I'm learning more about Mern stack
 
 ### Skills
 
@@ -27,4 +29,8 @@ Hi, I'm a MERN web developer with a passion for building intuitive and engaging 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/cundurragal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/cundurragal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/undurragacristian/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/cundurragal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cundurragal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
